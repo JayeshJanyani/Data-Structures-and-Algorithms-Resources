@@ -67,8 +67,8 @@
 | Gaussian Elimination |[ Gaussian Elimination ]( http://compprog.wordpress.com/2007/12/11/gaussian-elimination/ )|
 | Pollard Rho Integer Factorization |[ Pollard Rho Integer Factorization ]( http://www.cs.colorado.edu/~srirams/classes/doku.php/pollard_rho_tutorial )[  problem ]( http://www.spoj.com/problems/FACT1/ )|
 | Topological Sorting |[ Topological Sorting ]( http://www.geeksforgeeks.org/topological-sorting/ )|
-| Detecting Cycles in a Graph : Directed - * |[ 293 ]( http://www.geeksforgeeks.org/detect-cycle-in-a-graph/ )[  II
- ]( http://www.geeksforgeeks.org/union-find/ )[ 295 ]( http://www.geeksforgeeks.org/detect-cycle-undirected-graph/ )|
+| Detecting Cycles in a Graph :  |[ Directed - *293 ]( http://www.geeksforgeeks.org/detect-cycle-in-a-graph/ )[  II
+ ]( http://www.geeksforgeeks.org/union-find/ )[ Undirected : *295 ]( http://www.geeksforgeeks.org/detect-cycle-undirected-graph/ )|
 | Geometry : |[  Basics ]( https://www.topcoder.com/community/competitive-programming/tutorials/geometry-concepts-basic-concepts/ )[  Tutorial ]( http://web.stanford.edu/class/cs97si/09-computational-geometry.pdf )|
 | Backtracking : |[ N queens problem ]( http://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/ )[  Tug of War ]( http://www.geeksforgeeks.org/tug-of-war/ )[  Sudoku ]( http://www.geeksforgeeks.org/backtracking-set-7-suduku/ )|
 | Eulerian and Hamiltonian Paths : |[ Tutorial ]( http://www.cs.sfu.ca/~ggbaker/zju/math/euler-ham.html#ham )[  Tutorial ]( http://www.csd.uoc.gr/~hy583/papers/ch14.pdf )[  (Eulerian Path and Cycle)Implementation ]( http://www.geeksforgeeks.org/eulerian-path-and-circuit/ )[  (Hamiltonian Cycle)Implementation ]( http://www.geeksforgeeks.org/backtracking-set-7-hamiltonian-cycle/ )|
