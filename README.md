@@ -1,6 +1,6 @@
 # DS and Algorithm resources
 
-> A curated list of Data structures and algorithm topics and resources.
+> A curated list of Data structures and algorithm with topics and resources.
 
 #### Please read `contributing guidelines` before submitting new resources.
 
