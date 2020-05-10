@@ -89,7 +89,6 @@
 | Mo’s Algorithm : |[  Tutorial and Problems ]( http://blog.anudeep2011.com/mos-algorithm/ )|
 
 
-# Sameer Gulati | [LinkedIn](https://www.linkedin.com/in/sameergulati97)
+#### Sameer Gulati | [LinkedIn](https://www.linkedin.com/in/sameergulati97)
 
-# Jayesh Janyani
-[LinkedIn](https://www.linkedin.com/in/jayeshjanyani/) | [![GitHub followers] (https://img.shields.io/github/followers/jayeshjanyani?label=Jayesh%20Janyani&style=social)](https://github.com/jayeshjanyani/) 
+#### Jayesh Janyani | [LinkedIn](https://www.linkedin.com/in/jayeshjanyani/) | [![GitHub followers](https://img.shields.io/github/followers/jayeshjanyani.svg?label=Follow%20@jayeshjanyani&style=social)](https://github.com/jayeshjanyani/)
