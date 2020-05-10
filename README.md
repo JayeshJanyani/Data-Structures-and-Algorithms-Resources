@@ -87,3 +87,12 @@
 | Branch and Bound |[ Branch and Bound ]( http://www.academic.marist.edu/~jzbv/algorithms/Branch%20and%20Bound.htm )|
 | Math for Competitive Programming |[ Math for Competitive Programming ]( http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders )|
 | Mo’s Algorithm : |[  Tutorial and Problems ]( http://blog.anudeep2011.com/mos-algorithm/ )|
+
+
+Credits: Sameer Gulati
+Youtube: https://www.youtube.com/channel/UCMQyrxzurxDvHI5JXdsO6GQ
+LinkedIn: https://www.linkedin.com/in/sameergulati97/
+
+Follow me: Jayesh Janyani
+LinkedIn: https://www.linkedin.com/in/jayeshjanyani/
+[![GitHub followers](https://img.shields.io/github/followers/jayeshjanyani?label=Jayesh%20Janyani&style=social)](https://github.com/jayeshjanyani/) 
