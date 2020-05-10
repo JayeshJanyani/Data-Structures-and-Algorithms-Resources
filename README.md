@@ -85,6 +85,6 @@
 | Euler’s Totient Function : |[ Explanation, Implementation, Problems ]( http://e-maxx.ru/algo/euler_function )[  Explanation, Problems ]( http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=primeNumbers )|
 | Burnside Lemma : |[ Tutorial ]( http://e-maxx.ru/algo/burnside_polya )[  Tutorial ]( http://petr-mitrichev.blogspot.in/2008/11/burnsides-lemma.html )[  Problem ]( http://community.topcoder.com/stat?c=problem_statement&pm=9975 )|
 | Edit/Levenshtein Distance : |[ Tutorial ]( https://web.stanford.edu/class/cs124/lec/med.pdf )[  Introduction ]( http://en.wikipedia.org/wiki/Wagner–Fischer_algorithm )[  Tutorial ]( http://www.csse.monash.edu.au/~lloyd/tildeAlgDS/Dynamic/Edit/ )[  Problem ]( http://www.codechef.com/problems/SEATSR )[  Problem ]( http://www.spoj.com/problems/EDIST/ )|
-| Branch and Bound |[ Branch and Bound ]( http://www.academic.marist.edu/~jzbv/algorithms/Branch and Bound.htm )|
+| Branch and Bound |[ Branch and Bound ]( http://www.academic.marist.edu/~jzbv/algorithms/Branch%20and%20Bound.htm )|
 | Math for Competitive Programming |[ Math for Competitive Programming ]( http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=math_for_topcoders )|
 | Mo’s Algorithm : |[  Tutorial and Problems ]( http://blog.anudeep2011.com/mos-algorithm/ )|
