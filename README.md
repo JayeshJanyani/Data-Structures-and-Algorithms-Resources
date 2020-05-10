@@ -90,9 +90,12 @@
 
 
 Credits: Sameer Gulati
-Youtube: https://www.youtube.com/channel/UCMQyrxzurxDvHI5JXdsO6GQ
-LinkedIn: https://www.linkedin.com/in/sameergulati97/
 
-Follow me: Jayesh Janyani
-LinkedIn: https://www.linkedin.com/in/jayeshjanyani/
+[Youtube](https://www.youtube.com/channel/UCMQyrxzurxDvHI5JXdsO6GQ)
+[LinkedIn](https://www.linkedin.com/in/sameergulati97)
+
+Jayesh Janyani
+[LinkedIn](https://www.linkedin.com/in/jayeshjanyani/)
+
+
 [![GitHub followers](https://img.shields.io/github/followers/jayeshjanyani?label=Jayesh%20Janyani&style=social)](https://github.com/jayeshjanyani/) 
